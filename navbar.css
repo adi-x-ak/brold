@@ -1,0 +1,16 @@
+
+#navbar
+{
+   width: 100%;
+   height: 10%;
+   position: fixed;
+   background-color: blue;
+   padding: 30px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+
+}
